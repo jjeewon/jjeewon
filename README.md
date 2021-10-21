@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jjeewon/jjeewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">Hi there! 👋  I'm developing Android apps with kotlin 🥑 </p>     
+  <h4 align="center"><b>🛠 Tech Stack 🛠</b></h4>
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-47A248?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=kotlin&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/Python-4479A1?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
+ </p>
