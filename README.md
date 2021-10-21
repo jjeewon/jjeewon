@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">Hi there! 👋  I'm developing Android apps with kotlin 🥑 </p>     
-  <h4 align="center"><b>🛠 Tech Stack 🛠</b></h4>
+<h3 align="center">Hi there! 👋  I'm developing Android apps with kotlin 🥑 </h3>     
+  <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-47A248?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp 
