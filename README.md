@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
  </p>
   <div align="center">
+  
+  ![Jjeewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjeewon&show_icons=true&count_private=true&theme=merko)
    
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjeewon1995)](https://solved.ac/jjeewon1995/)
   
